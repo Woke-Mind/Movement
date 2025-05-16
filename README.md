@@ -6,4 +6,4 @@
 
 - [End-SuperPACs-Overview](spearit/End-SuperPACs-Overview.pdf)
 - [Mammoth-Hunter-Manifesto](spearit/Mammoth-Hunter-Manifesto.pdf)
-- [SPEAR-IT-Teach-In Guide](spearit/SPEAR-IT-Teach-In Guide.pdf)
+- [SPEAR-IT-Teach-In-Guide](spearit/SPEAR-IT-Teach-In-Guide.pdf)
