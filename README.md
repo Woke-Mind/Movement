@@ -1,4 +1,4 @@
-# Woke Mind Movement
+# [Woke Mind Movement](https://github.com/Woke-Mind/Movement)
 
 ![Spearit May 17 Flyer.jpeg](spearit/Spearit-May-17-Flyer.jpeg)
 
