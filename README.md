@@ -7,6 +7,10 @@
 - [Mammoth-Hunter-Manifesto](spearit/Mammoth-Hunter-Manifesto.pdf)
 - [SPEAR-IT-Teach-In-Guide](spearit/SPEAR-IT-Teach-In-Guide.pdf)
 
+## readings
+
+- [The “Woke” Myth = Who should decide what we see, read, and learn?](https://open.substack.com/pub/robertreich/p/who-decides-what-we-know-and-learn)
+
 ## talks
 
 - [Practice Intimately - Dharma Talk by Roshi Enkyo O'Hara 11/12/23](https://www.youtube.com/watch?v=evrbqpSiY4g)
