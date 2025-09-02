@@ -1,7 +1,5 @@
 # [Woke Mind Movement](https://github.com/Woke-Mind/Movement)
 
-![Spearit May 17 Flyer.jpeg](spearit/Spearit-May-17-Flyer.jpeg)
-
 ## we seek to woke our minds
 
 - [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1)
@@ -29,6 +27,11 @@ He described the phrase as a "Negro idiom":
 
 https://www.youtube.com/results?search_query=Roshi+Pat+Enkyo+O%E2%80%99Hara
 
-
-
 ```
+## Past events
+
+- 2025-05-17 May
+- 
+![Spearit May 17 Flyer.jpeg](spearit/Spearit-May-17-Flyer.jpeg)
+
+
