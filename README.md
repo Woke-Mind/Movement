@@ -3,10 +3,14 @@
 ## we seek to woke our minds
 
 - [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1)
-
 - [End-SuperPACs-Overview](spearit/End-SuperPACs-Overview.pdf)
 - [Mammoth-Hunter-Manifesto](spearit/Mammoth-Hunter-Manifesto.pdf)
 - [SPEAR-IT-Teach-In-Guide](spearit/SPEAR-IT-Teach-In-Guide.pdf)
+
+## talks
+
+- [Practice Intimately - Dharma Talk by Roshi Enkyo O'Hara 11/12/23](https://www.youtube.com/watch?v=evrbqpSiY4g)
+- [Enkyo Roshi's Dharma talk, “The Gate of Sweet Nectar Liturgy and Seizan,” March 09, 2025](https://www.youtube.com/watch?v=zj91wwZH9qM)
 
 ## refs
 
