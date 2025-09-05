@@ -1,5 +1,7 @@
 # [Woke Mind Movement](https://github.com/Woke-Mind/Movement)
 
+- [create an issue to stay in touch](https://github.com/Woke-Mind/Movement/issues)
+
 ## we seek to woke our minds
 
 - [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1)
