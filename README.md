@@ -11,7 +11,7 @@
 
 ## readings
 
-- [The “Woke” Myth = Who should decide what we see, read, and learn?](https://open.substack.com/pub/robertreich/p/who-decides-what-we-know-and-learn)
+- [The “Woke” Myth - Who should decide what we see, read, and learn?](https://open.substack.com/pub/robertreich/p/who-decides-what-we-know-and-learn)
 
 ## talks
 
