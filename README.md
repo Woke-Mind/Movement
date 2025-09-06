@@ -11,6 +11,8 @@
 
 ## readings
 
+- [whimsyload](http://whimsyload.com/about-rodney/)
+
 - [The “Woke” Myth - Who should decide what we see, read, and learn?](https://open.substack.com/pub/robertreich/p/who-decides-what-we-know-and-learn)
 
 ## talks
@@ -38,10 +40,8 @@ He described the phrase as a "Negro idiom":
 https://www.youtube.com/results?search_query=Roshi+Pat+Enkyo+O%E2%80%99Hara
 
 ```
+
 ## Past events
 
 - 2025-05-17 May
-- 
-![Spearit May 17 Flyer.jpeg](spearit/Spearit-May-17-Flyer.jpeg)
-
-
+- ![Spearit May 17 Flyer.jpeg](spearit/Spearit-May-17-Flyer.jpeg)
