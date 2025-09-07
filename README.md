@@ -20,7 +20,7 @@
 - [Practice Intimately - Dharma Talk by Roshi Enkyo O'Hara 11/12/23](https://www.youtube.com/watch?v=evrbqpSiY4g)
 - [Enkyo Roshi's Dharma talk, “The Gate of Sweet Nectar Liturgy and Seizan,” March 09, 2025](https://www.youtube.com/watch?v=zj91wwZH9qM)
 
-## inspriations
+## music
 
 - [Winter In America - season of ICE](https://music.apple.com/us/album/winter-in-america/308127684?i=308127738)
   -- Winter In America 8:45 Gil Scott-Heron Ultimate Jazz Collections (Volume 16) Jazz 0 2
