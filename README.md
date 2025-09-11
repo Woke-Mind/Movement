@@ -2,7 +2,25 @@
 
 - [create an issue to stay in touch](https://github.com/Woke-Mind/Movement/issues)
 
-## we seek to woke our minds
+# we seek to woke our minds
+
+## goals
+
+- seeking colaborators of all ilk
+
+- to build a decentralized woke mind network
+
+- outside the gaze of evil big company social media
+
+- public & private discussions | links | info
+
+- resilient to web | infrastructure failure
+
+- leverage git and another open source build tools
+
+- privacy protected by industrial strength encryption
+
+## resources
 
 - [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1)
 - [End-SuperPACs-Overview](spearit/End-SuperPACs-Overview.pdf)
@@ -25,7 +43,7 @@
 - [Winter In America - season of ICE](https://music.apple.com/us/album/winter-in-america/308127684?i=308127738)
   -- Winter In America 8:45 Gil Scott-Heron Ultimate Jazz Collections (Volume 16) Jazz 0 2
 
-## refs
+## history
 
 - [Stay woke, keep your eyes open](https://www.snopes.com/articles/464795/origins-term-stay-woke/)
   - The phrase was used in a 1938 recording by Black folk singer Lead Belly.
