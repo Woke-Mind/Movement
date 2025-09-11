@@ -22,6 +22,7 @@
 
 ## resources
 
+- [indivisiblebrooklyn.org](https://indivisiblebrooklyn.org/)
 - [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1)
 - [End-SuperPACs-Overview](spearit/End-SuperPACs-Overview.pdf)
 - [Mammoth-Hunter-Manifesto](spearit/Mammoth-Hunter-Manifesto.pdf)
