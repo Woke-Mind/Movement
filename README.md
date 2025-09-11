@@ -16,7 +16,7 @@
 
 - resilient to web | infrastructure failure
 
-- leverage git and another open source build tools
+- leverage git and other open source build tools
 
 - privacy protected by industrial strength encryption
 
