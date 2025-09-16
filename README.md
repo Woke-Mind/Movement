@@ -1,6 +1,6 @@
 # [Woke Mind Movement](https://github.com/Woke-Mind/Movement)
 
-- [create an issue to stay in touch](https://github.com/Woke-Mind/Movement/issues)
+- [create an issue to stay in touch](./how/onboard.md)
 
 # we seek to woke our minds
 
