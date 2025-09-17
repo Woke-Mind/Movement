@@ -20,20 +20,26 @@
 
 - privacy protected by industrial strength encryption
 
+## readings
+
+- [Tracking Trump: His actions on education ](https://hechingerreport.org/tracking-trump-his-actions-on-education) The president is working to eliminate the Education Department and fighting ‘woke’ ideology in schools. A week-by-week look at what he’s done
+
+- [The Chan-Zuckerbergs stopped funding social causes. 400 kids lost their school](https://www.washingtonpost.com/technology/2025/06/29/mark-zuckerberg-priscilla-chan-school-closure/)
+
+<!-- - [whimsyload](http://whimsyload.com/about-rodney/) -->
+
+- [The “Woke” Myth - Who should decide what we see, read, and learn?](https://open.substack.com/pub/robertreich/p/who-decides-what-we-know-and-learn)
+
 ## resources
 
-- [indivisiblebrooklyn.org](https://indivisiblebrooklyn.org/)
+- [News That Speaks Your Language](https://documentedny.com/) Documented is an independent, non-profit newsroom dedicated to reporting with and for immigrant communities in New York City.
+
+- [indivisiblebrooklyn.org](https://indivisiblebrooklyn.org/) Indivisible Brooklyn (INBK) is an all-volunteer, grassroots organization in Brooklyn dedicated to promoting civic participation and engagement in the fight for justice, sustainability, and equality.
 -
 - [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1)
 - [End-SuperPACs-Overview](spearit/End-SuperPACs-Overview.pdf)
 - [Mammoth-Hunter-Manifesto](spearit/Mammoth-Hunter-Manifesto.pdf)
 - [SPEAR-IT-Teach-In-Guide](spearit/SPEAR-IT-Teach-In-Guide.pdf)
-
-## readings
-
-- [whimsyload](http://whimsyload.com/about-rodney/)
-
-- [The “Woke” Myth - Who should decide what we see, read, and learn?](https://open.substack.com/pub/robertreich/p/who-decides-what-we-know-and-learn)
 
 ## talks
 
