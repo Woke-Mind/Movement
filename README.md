@@ -41,10 +41,13 @@
 - [News That Speaks Your Language](https://documentedny.com/) Documented is an independent, non-profit newsroom dedicated to reporting with and for immigrant communities in New York City.
 
 - [indivisiblebrooklyn.org](https://indivisiblebrooklyn.org/) Indivisible Brooklyn (INBK) is an all-volunteer, grassroots organization in Brooklyn dedicated to promoting civic participation and engagement in the fight for justice, sustainability, and equality.
--
+
 - [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1)
+
 - [End-SuperPACs-Overview](spearit/End-SuperPACs-Overview.pdf)
+
 - [Mammoth-Hunter-Manifesto](spearit/Mammoth-Hunter-Manifesto.pdf)
+
 - [SPEAR-IT-Teach-In-Guide](spearit/SPEAR-IT-Teach-In-Guide.pdf)
 
 ## talks
