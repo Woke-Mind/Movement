@@ -20,6 +20,12 @@
 
 - privacy protected by industrial strength encryption
 
+## projects
+
+- [Woke-Mind Photo Blog](https://woke-mind-photo-blog.vercel.app/grid)
+
+- [Woke-Mind resistance 3x video](https://jht9629-nyu.github.io/resistance-3x/src/index-2.html)
+
 ## readings
 
 - [Tracking Trump: His actions on education ](https://hechingerreport.org/tracking-trump-his-actions-on-education) The president is working to eliminate the Education Department and fighting ‘woke’ ideology in schools. A week-by-week look at what he’s done
@@ -40,12 +46,6 @@
 - [End-SuperPACs-Overview](spearit/End-SuperPACs-Overview.pdf)
 - [Mammoth-Hunter-Manifesto](spearit/Mammoth-Hunter-Manifesto.pdf)
 - [SPEAR-IT-Teach-In-Guide](spearit/SPEAR-IT-Teach-In-Guide.pdf)
-
-## projects
-
-- [Woke-Mind Photo Blog](https://woke-mind-photo-blog.vercel.app/grid)
-
-- [Woke-Mind resistance 3x video](https://jht9629-nyu.github.io/resistance-3x/src/index-2.html)
 
 ## talks
 
