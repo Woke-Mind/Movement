@@ -22,9 +22,22 @@
 
 ## projects
 
+- [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1)
+
+  - [[-source-]](https://github.com/jht9629-nyu/let-america-be.git)
+
 - [Woke-Mind Photo Blog](https://woke-mind-photo-blog.vercel.app/grid)
 
-- [Woke-Mind resistance 3x video](https://jht9629-nyu.github.io/resistance-3x/src/index-2.html)
+- [Woke-Mind resistance 3x](https://jht9629-nyu.github.io/resistance-3x/src/index-2.html)
+
+  - [[-source-]](https://github.com/Woke-Mind/resistance-3x.git)
+
+- [Post-WW2 Anti-Fascist Educational Film | Don't Be a Sucker | 1947](https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer/?playlist=8K6-cEAJZlE)
+
+  - [[-YouTube-]](https://www.youtube.com/watch?]v=8K6-cEAJZlE)
+
+- [What We Must Do Now | Robert Reich Speaks at Berkeley Rally | April 17, 2025](https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer/?playlist=ge5wsaTpuz8)
+  - [[-YouTube-]](https://www.youtube.com/watch?v=ge5wsaTpuz8)
 
 ## readings
 
@@ -41,8 +54,6 @@
 - [News That Speaks Your Language](https://documentedny.com/) Documented is an independent, non-profit newsroom dedicated to reporting with and for immigrant communities in New York City.
 
 - [indivisiblebrooklyn.org](https://indivisiblebrooklyn.org/) Indivisible Brooklyn (INBK) is an all-volunteer, grassroots organization in Brooklyn dedicated to promoting civic participation and engagement in the fight for justice, sustainability, and equality.
-
-- [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1)
 
 - [End-SuperPACs-Overview](spearit/End-SuperPACs-Overview.pdf)
 
