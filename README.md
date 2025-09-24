@@ -55,11 +55,11 @@
 
 - [indivisiblebrooklyn.org](https://indivisiblebrooklyn.org/) Indivisible Brooklyn (INBK) is an all-volunteer, grassroots organization in Brooklyn dedicated to promoting civic participation and engagement in the fight for justice, sustainability, and equality.
 
-- [End-SuperPACs-Overview](spearit/End-SuperPACs-Overview.pdf)
+- [End-SuperPACs-Overview](spearit/End-SuperPACs-Overview.pdf) Stop billionaires from buying our democracy.
 
-- [Mammoth-Hunter-Manifesto](spearit/Mammoth-Hunter-Manifesto.pdf)
-
-- [SPEAR-IT-Teach-In-Guide](spearit/SPEAR-IT-Teach-In-Guide.pdf)
+  - [Mammoth-Hunter-Manifesto](spearit/Mammoth-Hunter-Manifesto.pdf)
+  
+  - [SPEAR-IT-Teach-In-Guide](spearit/SPEAR-IT-Teach-In-Guide.pdf)
 
 ## talks
 
