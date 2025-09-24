@@ -49,6 +49,25 @@
 
 - [The “Woke” Myth - Who should decide what we see, read, and learn?](https://open.substack.com/pub/robertreich/p/who-decides-what-we-know-and-learn)
 
+
+## fresh!
+
+- [freespeechforpeople.org](https://freespeechforpeople.org/challenging-super-pacs/) Free Speech For People has demonstrated critical leadership in the fight to end super PACs
+  - [impeachtrumpagain.org](https://www.impeachtrumpagain.org/)
+    - 1: Unlawfully mobilizing military forces against civilian protesters in the United States
+    - 2: Attempting to manipulate congressional districting to entrench his own power
+    - 3: Illegally kidnapping, detaining, and removing U.S. residents
+    - ...
+    - 5: Unconstitutionally and systemically violating the First Amendment
+    - 9: Abusing investigatory and prosecutorial powers
+    - 25: Engaging in unlawful, corrupt practices during the 2024 presidential campaign
+
+- [nextcity.org](https://nextcity.org/features/the-plan-to-bring-social-housing-back-to-new-york) The Plan to Bring Social Housing (Back) to New York
+
+- [socialists.nyc](https://socialists.nyc/) We’re the NYC chapter of the largest socialist organization in the U.S.
+
+- [just-conversations](https://www.bklynlibrary.org/calendar/just-conversations-moment-center-for-brooklyn-20250915-0630pm) Just Conversations | This Moment in Immigration: What’s at Stake and What Can Be Done
+
 ## resources
 
 - [News That Speaks Your Language](https://documentedny.com/) Documented is an independent, non-profit newsroom dedicated to reporting with and for immigrant communities in New York City.
@@ -57,9 +76,9 @@
 
 - [End-SuperPACs-Overview](spearit/End-SuperPACs-Overview.pdf) Stop billionaires from buying our democracy.
 
-  - [Mammoth-Hunter-Manifesto](spearit/Mammoth-Hunter-Manifesto.pdf)
+  - [Mammoth-Hunter-Manifesto](spearit/Mammoth-Hunter-Manifesto.pdf) We do not seek power to dominate, but to distribute. Not to control, but to liberate.
   
-  - [SPEAR-IT-Teach-In-Guide](spearit/SPEAR-IT-Teach-In-Guide.pdf)
+  - [SPEAR-IT-Teach-In-Guide](spearit/SPEAR-IT-Teach-In-Guide.pdf) "Who really runs America? Let's talk."
 
 ## talks
 
