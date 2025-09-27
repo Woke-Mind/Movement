@@ -4,6 +4,8 @@
 
 # we seek to woke our minds
 
+- a adventure in social justice
+
 ## goals
 
 - seeking colaborators of all ilk
@@ -116,4 +118,9 @@ https://www.youtube.com/results?search_query=Roshi+Pat+Enkyo+O%E2%80%99Hara
 
 - [Distributed AI Research Institute - technology that benefits everyone](https://www.dair-institute.org/)
 
-- [Mind Storms](https://www.media.mit.edu/publications/mindstorms/)
+- [Mind Storms](https://www.media.mit.edu/publications/mindstorms/) [pdf](https://worrydream.com/refs/Papert_1980_-_Mindstorms,_1st_ed.pdf)
+
+- [Black STEA2M Ecologies as a Technology of Social Justice](https://docs.google.com/document/d/1hHQGZnN6TYTDGmNqOLXRAgc7Jg9el40TTNQAIKxOGn8/edit?tab=t.0)
+  - [Thompson-x-Coles](https://drive.google.com/drive/folders/1W5aV78mfMnCUd_tGkTPImS_fWFPKGYmO)
+    We define Black STEA2M Ecologies as the networking of Blackness and innovation centered around STEA2M related topics that work across institutions, organizations, and communities to create sustainable pathways to wellness that uplift rather than harm Black people
+  - [Northeast - Black STEA2M Ecologies as a Technology of Social Justice: A Workshop on Culture, Place and Technology to Sustain Personal and Societal Wellness](https://icc.ucla.edu/invited-workshop-concepts/)
