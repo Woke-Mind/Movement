@@ -86,6 +86,8 @@
     We define Black STEA2M Ecologies as the networking of Blackness and innovation centered around STEA2M related topics that work across institutions, organizations, and communities to create sustainable pathways to wellness that uplift rather than harm Black people
   - [Northeast - Black STEA2M Ecologies as a Technology of Social Justice: A Workshop on Culture, Place and Technology to Sustain Personal and Societal Wellness](https://icc.ucla.edu/invited-workshop-concepts/)
 
+![Black-STEA2M-Ecologies.jpeg](./aaa/stea2m/1681-Black-STEA2M-Ecologies.jpeg)
+
 ## Past events
 
 - 2025-05-17 May
