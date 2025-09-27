@@ -20,6 +20,10 @@
 
 - privacy protected by industrial strength encryption
 
+## news
+
+- [2025-09](./aaa/news/2025-09.md)
+
 ## projects
 
 - [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1)
@@ -48,10 +52,6 @@
 <!-- - [whimsyload](http://whimsyload.com/about-rodney/) -->
 
 - [The “Woke” Myth - Who should decide what we see, read, and learn?](https://open.substack.com/pub/robertreich/p/who-decides-what-we-know-and-learn)
-
-## news
-
-- [2025-09](./aaa/news/2025-09.md)
 
 ## resources
 
