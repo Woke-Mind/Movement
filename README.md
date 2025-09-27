@@ -22,6 +22,7 @@
 
 ## news
 
+- [The Chan-Zuckerbergs stopped funding social causes. 400 kids lost their school.](./aaa/news/Priscilla-Chan-and-Mark-Zuckerberg-philanthropy-pivot.pdf)
 - [2025-09](./aaa/news/2025-09.md)
 
 ## projects
@@ -102,10 +103,17 @@ https://www.youtube.com/results?search_query=Roshi+Pat+Enkyo+O%E2%80%99Hara
 - 2025-05-17 May
 - ![Spearit May 17 Flyer.jpeg](./aaa/spearit/Spearit-May-17-Flyer.jpeg)
 
-##
+## Inspiration
 
 - ISCA
-- Imagination | Science | Curiosity
-- Art - Alliance - Activism
+- Imagination | Science | Curiosity | [ Art - Alliance - Activism ]
 
 - [A World Drawn Together](https://www.caricature.org/)
+
+- [The Algebra Project uses mathematics literacy as an organizing tool...](https://algebra.org/)
+
+- [Algorithmic Justice League](https://www.ajl.org/)
+
+- [Distributed AI Research Institute - technology that benefits everyone](https://www.dair-institute.org/)
+
+- [Mind Storms](https://www.media.mit.edu/publications/mindstorms/)
