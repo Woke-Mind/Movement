@@ -29,9 +29,7 @@
 
 ## projects
 
-- [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1)
-
-  - [[-source-]](https://github.com/jht9629-nyu/let-america-be.git)
+- [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1) | [[-source-]](https://github.com/jht9629-nyu/let-america-be.git)
 
 - [more...](./aaa/projects/2025-09.md)
 
@@ -69,6 +67,10 @@
 - [Distributed AI Research Institute - technology that benefits everyone](https://www.dair-institute.org/)
 
 - [Mind Storms](https://www.media.mit.edu/publications/mindstorms/) [pdf](https://worrydream.com/refs/Papert_1980_-_Mindstorms,_1st_ed.pdf)
+
+- [Computing for a Purpose](https://www.media.mit.edu/projects/purpose-based-creative-computing-with-scratch/overview/)
+
+- [daily BlackFacts](https://molab-itp.github.io/p5moLibrary/src/demo/BlackFacts/)
 
 - [Black STEA2M Ecologies as a Technology of Social Justice](https://docs.google.com/document/d/1hHQGZnN6TYTDGmNqOLXRAgc7Jg9el40TTNQAIKxOGn8/edit?tab=t.0)
   - [Thompson-x-Coles](https://drive.google.com/drive/folders/1W5aV78mfMnCUd_tGkTPImS_fWFPKGYmO)
