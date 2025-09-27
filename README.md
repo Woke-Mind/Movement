@@ -1,6 +1,6 @@
 # [Woke Mind Movement](https://github.com/Woke-Mind/Movement)
 
-- [create an issue to stay in touch](./how/onboard.md)
+- [create an issue to stay in touch](./aaa/how/onboard.md)
 
 # we seek to woke our minds
 
@@ -51,7 +51,7 @@
 
 ## news
 
-- [2025-09](news/2025-09.md)
+- [2025-09](./aaa/news/2025-09.md)
 
 ## resources
 
@@ -59,11 +59,11 @@
 
 - [indivisiblebrooklyn.org](https://indivisiblebrooklyn.org/) Indivisible Brooklyn (INBK) is an all-volunteer, grassroots organization in Brooklyn dedicated to promoting civic participation and engagement in the fight for justice, sustainability, and equality.
 
-- [End-SuperPACs-Overview](spearit/End-SuperPACs-Overview.pdf) Stop billionaires from buying our democracy.
+- [End-SuperPACs-Overview](./aaa/spearit/End-SuperPACs-Overview.pdf) Stop billionaires from buying our democracy.
 
-  - [Mammoth-Hunter-Manifesto](spearit/Mammoth-Hunter-Manifesto.pdf) We do not seek power to dominate, but to distribute. Not to control, but to liberate.
+  - [Mammoth-Hunter-Manifesto](./aaa/spearit/Mammoth-Hunter-Manifesto.pdf) We do not seek power to dominate, but to distribute. Not to control, but to liberate.
 
-  - [SPEAR-IT-Teach-In-Guide](spearit/SPEAR-IT-Teach-In-Guide.pdf) "Who really runs America? Let's talk."
+  - [SPEAR-IT-Teach-In-Guide](./aaa/spearit/SPEAR-IT-Teach-In-Guide.pdf) "Who really runs America? Let's talk."
 
 ## talks
 
@@ -100,4 +100,12 @@ https://www.youtube.com/results?search_query=Roshi+Pat+Enkyo+O%E2%80%99Hara
 ## Past events
 
 - 2025-05-17 May
-- ![Spearit May 17 Flyer.jpeg](spearit/Spearit-May-17-Flyer.jpeg)
+- ![Spearit May 17 Flyer.jpeg](./aaa/spearit/Spearit-May-17-Flyer.jpeg)
+
+##
+
+- ISCA
+- Imagination | Science | Curiosity
+- Art - Alliance - Activism
+
+- [A World Drawn Together](https://www.caricature.org/)
