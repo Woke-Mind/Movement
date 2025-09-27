@@ -25,7 +25,7 @@
 ## news
 
 - [The Chan-Zuckerbergs stopped funding social causes. 400 kids lost their school.](./aaa/news/Priscilla-Chan-and-Mark-Zuckerberg-philanthropy-pivot.pdf)
-- [2025-09](./aaa/news/2025-09.md)
+- [more...](./aaa/news/2025-09.md)
 
 ## projects
 
@@ -46,17 +46,7 @@
 - [What We Must Do Now | Robert Reich Speaks at Berkeley Rally | April 17, 2025](https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer/?playlist=ge5wsaTpuz8)
   - [[-YouTube-]](https://www.youtube.com/watch?v=ge5wsaTpuz8)
 
-## readings
-
-- [Tracking Trump: His actions on education ](https://hechingerreport.org/tracking-trump-his-actions-on-education) The president is working to eliminate the Education Department and fighting ‘woke’ ideology in schools. A week-by-week look at what he’s done
-
-- [The Chan-Zuckerbergs stopped funding social causes. 400 kids lost their school](https://www.washingtonpost.com/technology/2025/06/29/mark-zuckerberg-priscilla-chan-school-closure/)
-
-<!-- - [whimsyload](http://whimsyload.com/about-rodney/) -->
-
-- [The “Woke” Myth - Who should decide what we see, read, and learn?](https://open.substack.com/pub/robertreich/p/who-decides-what-we-know-and-learn)
-
-## resources
+## alliance
 
 - [News That Speaks Your Language](https://documentedny.com/) Documented is an independent, non-profit newsroom dedicated to reporting with and for immigrant communities in New York City.
 
@@ -68,47 +58,18 @@
 
   - [SPEAR-IT-Teach-In-Guide](./aaa/spearit/SPEAR-IT-Teach-In-Guide.pdf) "Who really runs America? Let's talk."
 
-## talks
-
-- [Practice Intimately ](https://www.youtube.com/watch?v=evrbqpSiY4g) Dharma Talk by Roshi Enkyo O'Hara 11/12/23
-
-- [The Gate of Sweet Nectar Liturgy and Seizan](https://www.youtube.com/watch?v=zj91wwZH9qM) Enkyo Roshi's Dharma talk March 09, 2025
-
-## music
-
-- [Winter In America - season of ICE](https://music.apple.com/us/album/winter-in-america/308127684?i=308127738)
-  -- Winter In America 8:45 Gil Scott-Heron Ultimate Jazz Collections (Volume 16) Jazz 0 2
-
 ## history
 
 - [Stay woke, keep your eyes open](https://www.snopes.com/articles/464795/origins-term-stay-woke/)
+
   - The phrase was used in a 1938 recording by Black folk singer Lead Belly.
 
-```
-
-https://www.snopes.com/articles/464795/origins-term-stay-woke/
-Lead Belly—who was born Huddie Ledbetter—said, "Stay woke, keep your eyes open."
-https://www.youtube.com/watch?v=VrXfkPViFIE&t=4s
-Lead Belly - "Scottsboro Boys"
-Woke's transformation into a byword of social awareness likely started decades earlier
-but began to be more broadly known in 2008, with the release of
-Erykah Badu's song "Master Teacher"."
-In 1962, Black novelist William Melvin Kelley wrote about the term "woke" in The New York Times, titled "If You're Woke You Dig it."
-He described the phrase as a "Negro idiom":
-
-https://www.youtube.com/results?search_query=Roshi+Pat+Enkyo+O%E2%80%99Hara
-
-```
-
-## Past events
-
-- 2025-05-17 May
-- ![Spearit May 17 Flyer.jpeg](./aaa/spearit/Spearit-May-17-Flyer.jpeg)
+- [more...](./aaa/history/stay-woke.md)
 
 ## Inspiration
 
 - ISCA
-- Imagination | Science | Curiosity | [ Art - Alliance - Activism ]
+- Imagination | Science | Curiosity | [ Art - Activism - Alliance ]
 
 - [A World Drawn Together](https://www.caricature.org/)
 
@@ -124,3 +85,8 @@ https://www.youtube.com/results?search_query=Roshi+Pat+Enkyo+O%E2%80%99Hara
   - [Thompson-x-Coles](https://drive.google.com/drive/folders/1W5aV78mfMnCUd_tGkTPImS_fWFPKGYmO)
     We define Black STEA2M Ecologies as the networking of Blackness and innovation centered around STEA2M related topics that work across institutions, organizations, and communities to create sustainable pathways to wellness that uplift rather than harm Black people
   - [Northeast - Black STEA2M Ecologies as a Technology of Social Justice: A Workshop on Culture, Place and Technology to Sustain Personal and Societal Wellness](https://icc.ucla.edu/invited-workshop-concepts/)
+
+## Past events
+
+- 2025-05-17 May
+- ![Spearit May 17 Flyer.jpeg](./aaa/spearit/Spearit-May-17-Flyer.jpeg)
