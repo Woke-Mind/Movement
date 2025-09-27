@@ -4,7 +4,7 @@
 
 # we seek to woke our minds
 
-- a adventure in social justice
+- an adventure in social justice
 
 ## goals
 
