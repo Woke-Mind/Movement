@@ -30,7 +30,6 @@
 ## projects
 
 - [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1) | [[-source-]](https://github.com/jht9629-nyu/let-america-be.git)
-
 - [more...](./aaa/projects/2025-09.md)
 
 ## alliance
@@ -66,7 +65,7 @@
 
 - [Distributed AI Research Institute - technology that benefits everyone](https://www.dair-institute.org/)
 
-- [Mind Storms](https://www.media.mit.edu/publications/mindstorms/) [pdf](https://worrydream.com/refs/Papert_1980_-_Mindstorms,_1st_ed.pdf)
+- [Mind Storms](https://www.media.mit.edu/publications/mindstorms/) [[-pdf-]](https://worrydream.com/refs/Papert_1980_-_Mindstorms,_1st_ed.pdf)
 
 - [Computing for a Purpose](https://www.media.mit.edu/projects/purpose-based-creative-computing-with-scratch/overview/) | [[-more...-]](./aaa/purpose/purpose.md)
 
