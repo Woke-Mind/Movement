@@ -33,18 +33,7 @@
 
   - [[-source-]](https://github.com/jht9629-nyu/let-america-be.git)
 
-- [Woke-Mind Photo Blog](https://woke-mind-photo-blog.vercel.app/grid)
-
-- [Woke-Mind resistance 3x](https://jht9629-nyu.github.io/resistance-3x/src/index-2.html)
-
-  - [[-source-]](https://github.com/Woke-Mind/resistance-3x.git)
-
-- [Post-WW2 Anti-Fascist Educational Film | Don't Be a Sucker | 1947](https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer/?playlist=8K6-cEAJZlE)
-
-  - [[-YouTube-]](https://www.youtube.com/watch?]v=8K6-cEAJZlE)
-
-- [What We Must Do Now | Robert Reich Speaks at Berkeley Rally | April 17, 2025](https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer/?playlist=ge5wsaTpuz8)
-  - [[-YouTube-]](https://www.youtube.com/watch?v=ge5wsaTpuz8)
+- [more...](./aaa/projects/2025-09.md)
 
 ## alliance
 
@@ -69,7 +58,7 @@
 ## Inspiration
 
 - ISCA
-- Imagination | Science | Curiosity | [ Art - Activism - Alliance ]
+- Imaaagination | Science | Curiosity | [ Art - Activism - Alliance ]
 
 - [A World Drawn Together](https://www.caricature.org/)
 
