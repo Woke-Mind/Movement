@@ -55,7 +55,7 @@
 ## Inspiration
 
 - SICaaa
-- Science | Imaaagination | Curiosity | [ Art - Activism - Alliance ]
+- Science | Imaaagination | Curiosity | [ art - activism - alliance ]
 
 - [A World Drawn Together](https://www.caricature.org/)
 
