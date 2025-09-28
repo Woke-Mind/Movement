@@ -54,8 +54,8 @@
 
 ## Inspiration
 
-- ISCA
-- Imaaagination | Science | Curiosity | [ Art - Activism - Alliance ]
+- SICaaa
+- Science | Imaaagination | Curiosity | [ Art - Activism - Alliance ]
 
 - [A World Drawn Together](https://www.caricature.org/)
 
