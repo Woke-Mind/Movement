@@ -78,6 +78,8 @@
 
 ![Black-STEA2M-Ecologies.jpeg](./aaa/stea2m/1681-Black-STEA2M-Ecologies.jpeg)
 
+- [[-more...-]](./aaa/inspiration/-inspiration.md)
+
 ## Past events
 
 - 2025-05-17 May
