@@ -18,3 +18,5 @@
   - [Thoth Program in Jamaica](https://www.youtube.com/watch?v=p95H3xsRuHA)
 
 - ![IMG_7225](../../aaa/inspiration/IMG_7225.jpeg)
+
+- ![dark-energy-IMG_4212-invert](../../aaa/inspiration/dark-energy-IMG_4212-invert.jpeg)
