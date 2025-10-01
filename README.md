@@ -34,9 +34,9 @@
 
 ## alliance
 
-- [Just Conversations | This Moment in Immigration: What’s at Stake and What Can Be Done](https://www.bklynlibrary.org/calendar/just-conversations-moment-center-for-brooklyn-20250915-0630pm)
+- [Just Conversations | This Moment in Immigration: What’s at Stake and What Can Be Done](https://www.bklynlibrary.org/calendar/just-conversations-moment-center-for-brooklyn-20250915-0630pm) - Mon, Sep 15 2025
 
-  - Mon, Sep 15 2025
+-[freespeechforpeople](https://freespeechforpeople.org/)
 
 - [News That Speaks Your Language](https://documentedny.com/) Documented is an independent, non-profit newsroom dedicated to reporting with and for immigrant communities in New York City.
 
