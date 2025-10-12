@@ -30,6 +30,7 @@
 
 ## projects
 
+- [woke-words](https://woke-mind.github.io/woke-words/words/) | [[-source-]](https://github.com/Woke-Mind/woke-words)
 - [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1) | [[-source-]](https://github.com/jht9629-nyu/let-america-be.git)
 - [more...](./aaa/projects/2025-09.md)
 
@@ -99,5 +100,6 @@
   - [item source](https://www.loc.gov/pictures/collection/anedub/item/2013650420)
   - [collection source](https://www.loc.gov/pictures/collection/anedub/)
   - [webdb webdb](https://woke-mind.github.io/webdb/webdb/)
+  - [W. E. B. Dubois a Biography in Four Voices - youtube intro](https://www.youtube.com/watch?v=WfsY2y7xrXo)
     <!-- - [metadeepmix webdb](http://metadeepmix.com/webdb/webdb/) -->
     <!-- - Woke Mind: "The problem since 1492 is white christian terrorism" -->
