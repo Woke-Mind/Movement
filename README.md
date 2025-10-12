@@ -24,6 +24,7 @@
 
 ## news
 
+- [A Hidden Camera Protest Turned the Tables on China’s Surveillance State](./aaa/news/A%20Hidden%20Camera%20Protest%20Turned%20the%20Tables%20on%20China’s%20Surveillance%20State%20-%20The%20New%20York%20Times.html)
 - [The Chan-Zuckerbergs stopped funding social causes. 400 kids lost their school.](./aaa/news/Priscilla-Chan-and-Mark-Zuckerberg-philanthropy-pivot.pdf)
 - [more...](./aaa/news/2025-09.md)
 
