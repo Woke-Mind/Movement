@@ -35,6 +35,8 @@
 
 ## alliance
 
+- [diversityschoolhouse](https://diversityschoolhouse.com/)
+
 - [Just Conversations | This Moment in Immigration: What’s at Stake and What Can Be Done](https://www.bklynlibrary.org/calendar/just-conversations-moment-center-for-brooklyn-20250915-0630pm) - Mon, Sep 15 2025
 
 - [free speech for people](https://freespeechforpeople.org/)
@@ -89,3 +91,12 @@
 
 - 2025-05-17 May
 - ![Spearit May 17 Flyer.jpeg](./aaa/spearit/Spearit-May-17-Flyer.jpeg)
+
+## Inspiration
+
+- ![the problem](./aaa/inspiration/webdb/091/onek.jpg)
+  - [item source](https://www.loc.gov/pictures/collection/anedub/item/2013650420)
+  - [collection source](https://www.loc.gov/pictures/collection/anedub/)
+  - [metadeepmix webdb](http://metadeepmix.com/webdb/webdb/)
+  - W.E.B. Du Bois 1900: "THE PROBLEM OF THE 20th CENTURY IS THE PROBLEM OF THE COLOR-LINE."
+  <!-- - Woke Mind: "The problem since 1492 is white christian terrorism" -->

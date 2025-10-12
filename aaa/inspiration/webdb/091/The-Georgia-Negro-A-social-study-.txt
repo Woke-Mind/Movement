@@ -1,0 +1,42 @@
+{
+  "updatedAt" : "2014-07-08T00:08:39.473Z",
+  "order" : 91,
+  "resource" : {
+    "id" : "ppmsca.33863",
+    "medium_s" : 41290,
+    "note" : "digital file from original item",
+    "external" : null,
+    "link" : "http:\/\/www.loc.gov\/pictures\/resource\/ppmsca.33863\/?co=anedub",
+    "aggregate" : "ppmsca",
+    "item" : "33863",
+    "large_s" : 227382,
+    "small" : "http:\/\/lcweb2.loc.gov\/service\/pnp\/ppmsca\/33800\/33863_150px.jpg",
+    "medium" : "http:\/\/lcweb2.loc.gov\/service\/pnp\/ppmsca\/33800\/33863r.jpg",
+    "small_s" : 10375,
+    "url" : "http:\/\/hdl.loc.gov\/loc.pnp\/ppmsca.33863",
+    "larger" : "http:\/\/lcweb2.loc.gov\/master\/pnp\/ppmsca\/33800\/33863u.tif",
+    "larger_s" : 26481574,
+    "largest" : "http:\/\/lcweb2.loc.gov\/master\/pnp\/ppmsca\/33800\/33863a.tif",
+    "large" : "http:\/\/lcweb2.loc.gov\/service\/pnp\/ppmsca\/33800\/33863v.jpg",
+    "largest_s" : 52925624
+  },
+  "ACL" : {
+    "*" : {
+      "read" : true
+    },
+    "SzvmoLYlqp" : {
+      "write" : true,
+      "read" : true
+    },
+    "role:Admin" : {
+      "write" : true
+    }
+  },
+  "href" : "http:\/\/www.loc.gov\/pictures\/collection\/anedub\/item\/2013650420\/",
+  "objectId" : "UVSmsErltq",
+  "scope" : "",
+  "createdAt" : "2014-07-07T03:55:05.732Z",
+  "thumb" : "http:\/\/lcweb2.loc.gov\/service\/pnp\/ppmsca\/33800\/33863_150px.jpg",
+  "tags" : "",
+  "title" : "The Georgia Negro A social study \/"
+}
