@@ -30,6 +30,7 @@
 
 ## projects
 
+- [Early Arrival: 'Immigrants Are New York'](https://molab-itp.github.io/moSalon/src/videoplayer/?playlist=Axuf_zTf4TU)
 - [woke-words](https://woke-mind.github.io/woke-words/words/) | [[-source-]](https://github.com/Woke-Mind/woke-words)
 - [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1) | [[-source-]](https://github.com/jht9629-nyu/let-america-be.git)
 - [more...](./aaa/projects/2025-09.md)
