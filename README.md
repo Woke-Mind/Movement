@@ -24,6 +24,9 @@
 
 ## news
 
+- [Data Consciousness:](https://www.printcenternewyork.org/data-consciousness)
+  Reframing Blackness in Contemporary Print
+  September 18–December 13, 2025
 - [A Hidden Camera Protest Turned the Tables on China’s Surveillance State](./aaa/news/A%20Hidden%20Camera%20Protest%20Turned%20the%20Tables%20on%20China’s%20Surveillance%20State%20-%20The%20New%20York%20Times.html)
 - [The Chan-Zuckerbergs stopped funding social causes. 400 kids lost their school.](./aaa/news/Priscilla-Chan-and-Mark-Zuckerberg-philanthropy-pivot.pdf)
 - [more...](./aaa/news/2025-09.md)
@@ -36,6 +39,14 @@
 - [more...](./aaa/projects/2025-09.md)
 
 ## alliance
+
+- [Dream Opportunity](https://www.dreamopportunity.org/) Connecting students with big brands to help them discover their Dream Opportunity.
+
+  - [Entrepreneurship at NYU](https://entrepreneur.nyu.edu/)
+
+- [AskMabel](https://www.labs.robinhood.org/portfolio/askmabel) Building a community of digitally resilient seniors, one step at a time. [[-site-]](https://www.askmabel.org/)
+
+  - [Blue ridge labs](https://www.labs.robinhood.org/) turns bold ideas into impact
 
 - [free speech for people](https://freespeechforpeople.org/) challenging big money in politics, confronting corruption in government...
 
