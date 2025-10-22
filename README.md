@@ -40,7 +40,7 @@
 
 ## alliance
 
-- [Dream Opportunity](https://www.dreamopportunity.org/) Connecting students with big brands to help them discover their Dream Opportunity. [formerly](https://www.thediversity.org/)
+- [Dream Opportunity](https://www.dreamopportunity.org/) Connecting students with big brands to help them discover their Dream Opportunity. [formerly thediversity.org](https://www.thediversity.org/)
 
   - [Entrepreneurship at NYU](https://entrepreneur.nyu.edu/)
 
