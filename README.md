@@ -22,23 +22,33 @@
 
 - privacy protected by industrial strength encryption
 
-## news
+## events
 
 - [Data Consciousness:](https://www.printcenternewyork.org/data-consciousness)
   Reframing Blackness in Contemporary Print
   September 18–December 13, 2025
+
+## news
+
 - [A Hidden Camera Protest Turned the Tables on China’s Surveillance State](./aaa/news/A%20Hidden%20Camera%20Protest%20Turned%20the%20Tables%20on%20China’s%20Surveillance%20State%20-%20The%20New%20York%20Times.html)
+
 - [The Chan-Zuckerbergs stopped funding social causes. 400 kids lost their school.](./aaa/news/Priscilla-Chan-and-Mark-Zuckerberg-philanthropy-pivot.pdf)
+
 - [more...](./aaa/news/2025-09.md)
 
 ## projects
 
 - [Early Arrival: 'Immigrants Are New York'](https://molab-itp.github.io/moSalon/src/videoplayer/?playlist=Axuf_zTf4TU) | [[-source-]](https://documentedny.com/2025/10/20/no-kings-rally-nyc/)
+
 - [woke-words](https://woke-mind.github.io/woke-words/words/) | [[-source-]](https://github.com/Woke-Mind/woke-words)
+
 - [let-america-be](https://jht9629-nyu.github.io/let-america-be/src/qrcode/?group=s1) | [[-source-]](https://github.com/jht9629-nyu/let-america-be.git)
+
 - [more...](./aaa/projects/2025-09.md)
 
 ## alliance
+
+- [Blacksky Algorithms](https://github.com/blacksky-algorithms) builds open-source, community-driven infrastructure for decentralized social media
 
 - [Dream Opportunity](https://www.dreamopportunity.org/) Connecting students with big brands to help them discover their Dream Opportunity. [formerly thediversity.org](https://www.thediversity.org/)
 
