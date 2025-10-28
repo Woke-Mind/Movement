@@ -30,6 +30,8 @@
 
 ## news
 
+- [Elon Musk’s $1 trillion pay day](https://electrek.co/2025/10/25/elon-musks-1-trillion-stock-award-gets-more-ridiculous-the-more-you-look-into-it/) gets more ridiculous the more you look into it
+
 - [A Hidden Camera Protest Turned the Tables on China’s Surveillance State](./aaa/news/A%20Hidden%20Camera%20Protest%20Turned%20the%20Tables%20on%20China’s%20Surveillance%20State%20-%20The%20New%20York%20Times.html)
 
 - [The Chan-Zuckerbergs stopped funding social causes. 400 kids lost their school.](./aaa/news/Priscilla-Chan-and-Mark-Zuckerberg-philanthropy-pivot.pdf)
