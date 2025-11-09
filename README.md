@@ -125,6 +125,6 @@
   - [item source](https://www.loc.gov/pictures/collection/anedub/item/2013650420)
   - [collection source](https://www.loc.gov/pictures/collection/anedub/)
   - [webdb webdb](https://woke-mind.github.io/webdb/webdb/)
-  - [W. E. B. Dubois a Biography in Four Voices - youtube intro](https://www.youtube.com/watch?v=WfsY2y7xrXo)
+  - [W. E. B. Dubois a Biography in Four Voices - scribe catalog](https://scribe.org/catalogue/web-du-bois-biography-four-voices)
     <!-- - [metadeepmix webdb](http://metadeepmix.com/webdb/webdb/) -->
     <!-- - Woke Mind: "The problem since 1492 is white christian terrorism" -->
