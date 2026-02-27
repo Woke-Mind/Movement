@@ -24,11 +24,15 @@
 
 ## events
 
+- [Printing Black America: Du Bois's Data Portraits in the 21st Century](https://www.bklynlibrary.org/exhibitions/printing-black-america-du) February 17, 2026 - May 31, 2026 @ [Brooklyn Central Library](https://www.bklynlibrary.org/locations/central)
+
 - [Data Consciousness:](https://www.printcenternewyork.org/data-consciousness)
   Reframing Blackness in Contemporary Print
   September 18–December 13, 2025
 
 ## news
+
+- [Politics Chat](https://www.youtube.com/watch?v=9PstJa1nf4Y) Heather Cox Richardson, February 26, 2026
 
 - [Elon Musk’s $1 trillion pay day](https://electrek.co/2025/10/25/elon-musks-1-trillion-stock-award-gets-more-ridiculous-the-more-you-look-into-it/) gets more ridiculous the more you look into it
 
@@ -53,11 +57,9 @@
 - [Blacksky Algorithms](https://github.com/blacksky-algorithms) builds open-source, community-driven infrastructure for decentralized social media
 
 - [Dream Opportunity](https://www.dreamopportunity.org/) Connecting students with big brands to help them discover their Dream Opportunity. [formerly thediversity.org](https://www.thediversity.org/)
-
   - [Entrepreneurship at NYU](https://entrepreneur.nyu.edu/)
 
 - [AskMabel](https://www.labs.robinhood.org/portfolio/askmabel) Building a community of digitally resilient seniors, one step at a time. [[-site-]](https://www.askmabel.org/)
-
   - [Blue ridge labs](https://www.labs.robinhood.org/) turns bold ideas into impact
 
 - [free speech for people](https://freespeechforpeople.org/) challenging big money in politics, confronting corruption in government...
@@ -72,7 +74,6 @@
   Culturally rich lessons for inclusive education
 
 - [End-SuperPACs-Overview](./aaa/spearit/End-SuperPACs-Overview.pdf) Stop billionaires from buying our democracy.
-
   - [Mammoth-Hunter-Manifesto](./aaa/spearit/Mammoth-Hunter-Manifesto.pdf) We do not seek power to dominate, but to distribute. Not to control, but to liberate.
 
   - [SPEAR-IT-Teach-In-Guide](./aaa/spearit/SPEAR-IT-Teach-In-Guide.pdf) "Who really runs America? Let's talk."
@@ -80,7 +81,6 @@
 ## history
 
 - [Stay woke, keep your eyes open](https://www.snopes.com/articles/464795/origins-term-stay-woke/)
-
   - The phrase was used in a 1938 recording by Black folk singer Lead Belly.
 
 - [more...](./aaa/history/stay-woke.md)
