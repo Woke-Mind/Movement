@@ -32,6 +32,8 @@
 
 ## news
 
+- [documentedny.com immigration](https://documentedny.com/category/english/immigration)
+
 - [Politics Chat](https://www.youtube.com/watch?v=9PstJa1nf4Y) Heather Cox Richardson, February 26, 2026
 
 - [Elon Musk’s $1 trillion pay day](https://electrek.co/2025/10/25/elon-musks-1-trillion-stock-award-gets-more-ridiculous-the-more-you-look-into-it/) gets more ridiculous the more you look into it
