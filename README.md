@@ -32,6 +32,10 @@
 
 ## news
 
+- [Dark Money Hit a Record High of $1.9 Billion in 2024 Federal Races](https://www.brennancenter.org/our-work/research-reports/dark-money-hit-record-high-19-billion-2024-federal-races)
+
+- [Elon Musk tops list of 2024 political donors, but five others gave more than $100 million](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million)
+
 - [documentedny.com immigration](https://documentedny.com/category/english/immigration)
 
 - [Politics Chat](https://www.youtube.com/watch?v=9PstJa1nf4Y) Heather Cox Richardson, February 26, 2026
