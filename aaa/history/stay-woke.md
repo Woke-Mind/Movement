@@ -1,5 +1,11 @@
 # history
 
+## events
+
+- [Data Consciousness:](https://www.printcenternewyork.org/data-consciousness)
+  Reframing Blackness in Contemporary Print
+  September 18–December 13, 2025
+
 ## talks
 
 - [Practice Intimately ](https://www.youtube.com/watch?v=evrbqpSiY4g) Dharma Talk by Roshi Enkyo O'Hara 11/12/23

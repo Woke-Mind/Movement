@@ -24,13 +24,15 @@
 
 ## events
 
-- [Printing Black America: Du Bois's Data Portraits in the 21st Century](https://www.bklynlibrary.org/exhibitions/printing-black-america-du) February 17, 2026 - May 31, 2026 @ [Brooklyn Central Library](https://www.bklynlibrary.org/locations/central)
+- [NYU Female Founders Lunch](https://luma.com/eb3jnlx9) 2026-Apr-24
 
-- [Data Consciousness:](https://www.printcenternewyork.org/data-consciousness)
-  Reframing Blackness in Contemporary Print
-  September 18–December 13, 2025
+- [AI Can't Fund You, But Your Customer Calls Might](​https://luma.com/k1z670h2) 2026-Apr-28
+
+- [Printing Black America: Du Bois's Data Portraits in the 21st Century](https://www.bklynlibrary.org/exhibitions/printing-black-america-du) 2026-Feb-17 - 2026-May-31 @ [Brooklyn Central Library](https://www.bklynlibrary.org/locations/central)
 
 ## news
+
+- [How Movements Are Built - video](https://www.youtube.com/watch?v=fpfBgBomWMk&list=PLFtEjc__6pNpAdZGPl8ZJNyyahZJWjH9R&index=2)
 
 - [Dark Money Hit a Record High of $1.9 Billion in 2024 Federal Races](https://www.brennancenter.org/our-work/research-reports/dark-money-hit-record-high-19-billion-2024-federal-races)
 
