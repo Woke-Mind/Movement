@@ -26,7 +26,7 @@
 
 - [NYU Female Founders Lunch](https://luma.com/eb3jnlx9) 2026-Apr-24
 
-- [AI Can't Fund You, But Your Customer Calls Might](​https://luma.com/k1z670h2) 2026-Apr-28
+- [AI Can't Fund You, But Your Customer Calls Might](https://luma.com/k1z670h2) 2026-Apr-28
 
 - [Printing Black America: Du Bois's Data Portraits in the 21st Century](https://www.bklynlibrary.org/exhibitions/printing-black-america-du) 2026-Feb-17 - 2026-May-31 @ [Brooklyn Central Library](https://www.bklynlibrary.org/locations/central)
 
