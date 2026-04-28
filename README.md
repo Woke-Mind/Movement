@@ -4,7 +4,7 @@
 
 # we seek to woke our minds
 
-- an adventure in social justice
+- an adventure in social justice in response to the 2021 anti-woke pandemic
 
 ## goals
 
