@@ -24,6 +24,8 @@
 
 ## events
 
+- [NYC Film Premiere - W.E.B. Du Bois: Rebel With A Cause](https://event.newschool.edu/nycfilmpremier-webdubois) 2026-Apr-27
+  
 - [NYU Female Founders Lunch](https://luma.com/eb3jnlx9) 2026-Apr-24
 
 - [AI Can't Fund You, But Your Customer Calls Might](https://luma.com/k1z670h2) 2026-Apr-28
