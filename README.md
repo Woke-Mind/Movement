@@ -34,6 +34,8 @@
 
 ## news
 
+- [Children of the Movement: Growing up with Parents in the Black Panther Party](https://www.youtube.com/watch?v=bLxO8E-YEtk&list=PLFtEjc__6pNpAdZGPl8ZJNyyahZJWjH9R&index=37)
+  
 - [How Movements Are Built - video](https://www.youtube.com/watch?v=fpfBgBomWMk&list=PLFtEjc__6pNpAdZGPl8ZJNyyahZJWjH9R&index=2)
 
 - [Dark Money Hit a Record High of $1.9 Billion in 2024 Federal Races](https://www.brennancenter.org/our-work/research-reports/dark-money-hit-record-high-19-billion-2024-federal-races)
