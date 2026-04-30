@@ -5,8 +5,8 @@
 
 # we seek to woke our minds
 
-- an adventure in social justice
-- add resistance response to the 2021 anti-woke pandemic
+- [an adventure in social justice](https://heathercoxrichardson.substack.com/)
+- [a resistance response to the 2021 anti-woke pandemic](https://www.youtube.com/@Tad.Stoermer)
 
 ## goals
 
@@ -141,3 +141,7 @@
   - [W. E. B. Dubois a Biography in Four Voices - scribe catalog](https://scribe.org/catalogue/web-du-bois-biography-four-voices)
     <!-- - [metadeepmix webdb](http://metadeepmix.com/webdb/webdb/) -->
     <!-- - Woke Mind: "The problem since 1492 is white christian terrorism" -->
+
+## [Private Enclave Repo](https://github.com/Woke-Mind/Enclave)
+
+- to gain access contact by creating a github issues in this repo
