@@ -1,10 +1,12 @@
 # [Woke Mind Movement](https://github.com/Woke-Mind/Movement)
 
 - [create an issue to stay in touch](./aaa/how/onboard.md)
+- [connect on Signal secure open source messaging app](https://signal.org/)
 
 # we seek to woke our minds
 
-- an adventure in social justice in response to the 2021 anti-woke pandemic
+- an adventure in social justice
+- add resistance response to the 2021 anti-woke pandemic
 
 ## goals
 
@@ -12,11 +14,11 @@
 
 - to build a decentralized woke mind network
 
-- outside the gaze of evil big company social media
+- outside the gaze of evil for-profit social media companies
 
-- public & private discussions | links | info
+- public & private discussions/links/info
 
-- resilient to web | infrastructure failure
+- resilient to web/infrastructure failure/attack
 
 - leverage git and other open source build tools
 
@@ -25,7 +27,6 @@
 ## events
 
 - [NYC Film Premiere - W.E.B. Du Bois: Rebel With A Cause](https://event.newschool.edu/nycfilmpremier-webdubois) 2026-Apr-27
-  
 - [NYU Female Founders Lunch](https://luma.com/eb3jnlx9) 2026-Apr-24
 
 - [AI Can't Fund You, But Your Customer Calls Might](https://luma.com/k1z670h2) 2026-Apr-28
@@ -35,7 +36,6 @@
 ## news
 
 - [Children of the Movement: Growing up with Parents in the Black Panther Party](https://www.youtube.com/watch?v=bLxO8E-YEtk&list=PLFtEjc__6pNpAdZGPl8ZJNyyahZJWjH9R&index=37)
-  
 - [How Movements Are Built - video](https://www.youtube.com/watch?v=fpfBgBomWMk&list=PLFtEjc__6pNpAdZGPl8ZJNyyahZJWjH9R&index=2)
 
 - [Dark Money Hit a Record High of $1.9 Billion in 2024 Federal Races](https://www.brennancenter.org/our-work/research-reports/dark-money-hit-record-high-19-billion-2024-federal-races)
