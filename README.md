@@ -5,8 +5,8 @@
 
 # we seek to woke our minds
 
-- [an adventure in social justice](https://heathercoxrichardson.substack.com/)
-- [a resistance response to the 2021 anti-woke pandemic](https://www.youtube.com/@Tad.Stoermer)
+- an adventure in social justice
+- a resistance response to the 2021 anti-woke pandemic
 
 ## goals
 
@@ -23,6 +23,13 @@
 - leverage git and other open source build tools
 
 - privacy protected by industrial strength encryption
+
+## stream
+
+- [ruhabenjamin viral-justice](https://www.ruhabenjamin.com/viral-justice)
+- [heathercoxrichardson](https://heathercoxrichardson.substack.com/)
+- [Tad.Stoermer](https://www.youtube.com/@Tad.Stoermer)
+- [Robert Reich](https://www.youtube.com/@RBReich)
 
 ## events
 
