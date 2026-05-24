@@ -26,19 +26,29 @@
 
 ## stream
 
+- [W. E. B. Du Bois, ‘Black America’, 1932](https://credo.library.umass.edu/cgi-bin/pdf.cgi?id=scua:mums312-b229-i058)
+  
 - [ruhabenjamin viral-justice](https://www.ruhabenjamin.com/viral-justice)
+  
 - [heathercoxrichardson](https://heathercoxrichardson.substack.com/)
+  
 - [Tad.Stoermer](https://www.youtube.com/@Tad.Stoermer)
+  
 - [Robert Reich](https://www.youtube.com/@RBReich)
 
 ## events
 
-- [NYC Film Premiere - W.E.B. Du Bois: Rebel With A Cause](https://event.newschool.edu/nycfilmpremier-webdubois) 2026-Apr-27
-- [NYU Female Founders Lunch](https://luma.com/eb3jnlx9) 2026-Apr-24
-
-- [AI Can't Fund You, But Your Customer Calls Might](https://luma.com/k1z670h2) 2026-Apr-28
-
+- [The 2026 Kahn Humanities Series Presents Professor Angela Y. Davis](https://www.bklynlibrary.org/calendar/2026-kahn-humanities-central-library-lobby-20260531-0700pm) 2026-05-31 Sun, May 31 7pm - 8:30pm
+  
 - [Printing Black America: Du Bois's Data Portraits in the 21st Century](https://www.bklynlibrary.org/exhibitions/printing-black-america-du) 2026-Feb-17 - 2026-May-31 @ [Brooklyn Central Library](https://www.bklynlibrary.org/locations/central)
+
+- [Dr. Ilyasah Shabazz Discusses Malcolm in the Desert, with Nikole Hannah-Jones](https://www.bklynlibrary.org/calendar/dr-ilyasah-shabazz-central-library-dweck-20260520-0700pm) 2026-05-20
+  
+- [AI Can't Fund You, But Your Customer Calls Might](https://luma.com/k1z670h2) 2026-04-28
+  
+- [NYC Film Premiere - W.E.B. Du Bois: Rebel With A Cause](https://event.newschool.edu/nycfilmpremier-webdubois) 2026-04-27
+
+- [NYU Female Founders Lunch](https://luma.com/eb3jnlx9) 2026-04-24
 
 ## news
 
@@ -107,7 +117,8 @@
 
 ## Inspiration
 
-- SICaaa
+- [Creative Computing Club House Brooklyn](https://github.com/CCCHBK/_)
+  
 - Science | Imaaagination | Curiosity | [ art - activism - alliance ]
 
 - [A World Drawn Together](https://www.caricature.org/)
@@ -150,5 +161,6 @@
     <!-- - Woke Mind: "The problem since 1492 is white christian terrorism" -->
 
 ## [Private Enclave Repo](https://github.com/Woke-Mind/Enclave)
+
 
 - to gain access contact by creating a github issues in this repo
