@@ -153,6 +153,7 @@
 
 - ![the problem](./aaa/inspiration/webdb/091/onek.jpg)
   - W.E.B. Du Bois 1900: "THE PROBLEM OF THE 20th CENTURY IS THE PROBLEM OF THE COLOR-LINE."
+  - 2026: "The problem for centuries is White Christian Terrorism"
   - [item source](https://www.loc.gov/pictures/collection/anedub/item/2013650420)
   - [collection source](https://www.loc.gov/pictures/collection/anedub/)
   - [webdb webdb](https://woke-mind.github.io/webdb/webdb/)
