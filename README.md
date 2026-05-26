@@ -50,6 +50,8 @@
 
 - [NYU Female Founders Lunch](https://luma.com/eb3jnlx9) 2026-04-24
 
+- [Just Conversations | This Moment in Immigration: What’s at Stake and What Can Be Done](https://www.bklynlibrary.org/calendar/just-conversations-moment-center-for-brooklyn-20250915-0630pm) - Mon, Sep 15 2025
+
 ## news
 
 - [Tracking U.S. Military Killings in Boat Attacks](https://www.nytimes.com/interactive/2025/10/29/us/us-caribbean-pacific-boat-strikes.html) 57 Strikes 193 Killed Updated 2026-05-20
@@ -99,8 +101,6 @@
 - [News That Speaks Your Language](https://documentedny.com/) Documented is an independent, non-profit newsroom dedicated to reporting with and for immigrant communities in New York City.
 
 - [indivisiblebrooklyn.org](https://indivisiblebrooklyn.org/) Indivisible Brooklyn (INBK) is an all-volunteer, grassroots organization in Brooklyn dedicated to promoting civic participation and engagement in the fight for justice, sustainability, and equality.
-
-- [Just Conversations | This Moment in Immigration: What’s at Stake and What Can Be Done](https://www.bklynlibrary.org/calendar/just-conversations-moment-center-for-brooklyn-20250915-0630pm) - Mon, Sep 15 2025
 
 - [diversityschoolhouse](https://diversityschoolhouse.com/) Empower every voice:
   Culturally rich lessons for inclusive education
