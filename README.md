@@ -54,7 +54,7 @@
 
 ## news
 
--[US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows
+- [US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows
 ](https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/)
 
 - [Tracking U.S. Military Killings in Boat Attacks](https://www.nytimes.com/interactive/2025/10/29/us/us-caribbean-pacific-boat-strikes.html) 57 Strikes 193 Killed Updated 2026-05-20
