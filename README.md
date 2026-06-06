@@ -39,7 +39,8 @@
 ## events
 
 - [The 2026 Kahn Humanities Series Presents Professor Angela Y. Davis](https://www.bklynlibrary.org/calendar/2026-kahn-humanities-central-library-lobby-20260531-0700pm) 2026-05-31 Sun, May 31 7pm - 8:30pm
-  
+  - [on youtube](https://www.youtube.com/watch?v=pT11T8ltrl0)
+    
 - [Printing Black America: Du Bois's Data Portraits in the 21st Century](https://www.bklynlibrary.org/exhibitions/printing-black-america-du) 2026-Feb-17 - 2026-May-31 @ [Brooklyn Central Library](https://www.bklynlibrary.org/locations/central)
 
 - [Dr. Ilyasah Shabazz Discusses Malcolm in the Desert, with Nikole Hannah-Jones](https://www.bklynlibrary.org/calendar/dr-ilyasah-shabazz-central-library-dweck-20260520-0700pm) 2026-05-20
