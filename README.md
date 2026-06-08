@@ -26,6 +26,9 @@
 
 ## stream
 
+- [Tracking U.S. Military Killings in Boat Attacks](https://www.nytimes.com/interactive/2025/10/29/us/us-caribbean-pacific-boat-strikes.html) 63 Strikes 207 Killed Updated 2026-06-03
+  
+
 - [W. E. B. Du Bois, ‘Black America’, 1932](https://credo.library.umass.edu/cgi-bin/pdf.cgi?id=scua:mums312-b229-i058)
   
 - [ruhabenjamin viral-justice](https://www.ruhabenjamin.com/viral-justice)
@@ -58,8 +61,6 @@
 - [US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows
 ](https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/)
 
-- [Tracking U.S. Military Killings in Boat Attacks](https://www.nytimes.com/interactive/2025/10/29/us/us-caribbean-pacific-boat-strikes.html) 57 Strikes 193 Killed Updated 2026-05-20
-  
 - [Children of the Movement: Growing up with Parents in the Black Panther Party](https://www.youtube.com/watch?v=bLxO8E-YEtk&list=PLFtEjc__6pNpAdZGPl8ZJNyyahZJWjH9R&index=37)
 - [How Movements Are Built - video](https://www.youtube.com/watch?v=fpfBgBomWMk&list=PLFtEjc__6pNpAdZGPl8ZJNyyahZJWjH9R&index=2)
 
