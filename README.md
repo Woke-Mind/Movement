@@ -26,7 +26,7 @@
 
 ## stream
 
-- [Tracking U.S. Military Killings in Boat Attacks](https://www.nytimes.com/interactive/2025/10/29/us/us-caribbean-pacific-boat-strikes.html) 63 Strikes 207 Killed Updated 2026-06-03
+- [Tracking U.S. Military Killings in Boat Attacks](https://www.nytimes.com/interactive/2025/10/29/us/us-caribbean-pacific-boat-strikes.html) 63 Strikes 207 Killed - Updated 2026-06-03
   
 
 - [W. E. B. Du Bois, ‘Black America’, 1932](https://credo.library.umass.edu/cgi-bin/pdf.cgi?id=scua:mums312-b229-i058)
