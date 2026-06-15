@@ -58,7 +58,7 @@
 
 - [NYU Female Founders Lunch](https://luma.com/eb3jnlx9) 2026-04-24
 
-- [Just Conversations | This Moment in Immigration: What’s at Stake and What Can Be Done](https://www.bklynlibrary.org/calendar/just-conversations-moment-center-for-brooklyn-20250915-0630pm) - Mon, Sep 15 2025
+- [Just Conversations \| This Moment in Immigration: What’s at Stake and What Can Be Done](https://www.bklynlibrary.org/calendar/just-conversations-moment-center-for-brooklyn-20250915-0630pm) - Mon, Sep 15 2025
 
 ## news
 
