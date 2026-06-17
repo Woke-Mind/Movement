@@ -27,7 +27,7 @@
 ## stream
 
 - [Tracking U.S. Military Killings in Boat Attacks](https://www.nytimes.com/interactive/2025/10/29/us/us-caribbean-pacific-boat-strikes.html)
-  - 63 Strikes 207 Killed - Updated 2026-06-03
+  - 64 Strikes 208 Killed - Updated 2026-06-16
 
 - [Lives Lost to ICE](https://icefalltracker.com/)
   - 2026 : 17 in custody \| 2 outside custody - Updated 2026-06-14
