@@ -28,6 +28,7 @@
 
 - [impact of closing usaid](https://www.google.com/search?q=impact+closing+usaid&rlz=1C5CHFA_enUS975US976&oq=impact+closing+usaid&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyBwgDEAAY7wUyBwgEEAAY7wUyCggFEAAYgAQYogQyBwgGEAAY7wUyCggHEAAYgAQYogTSAQg1ODAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
   - [USAID shutdown has led to hundreds of thousands of deaths](https://hsph.harvard.edu/news/usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths/) Harvard School of Public Health - 2025-11-20
+  - [One Year Later: The Effect of US ‘Chainsaw’ on Global Health](https://healthpolicy-watch.news/the-human-cost-one-year-after-the-us-took-a-chainsaw-to-global-health/) health policy watch - 2026-01-20
   
 - [Tracking U.S. Military Killings in Boat Attacks](https://www.nytimes.com/interactive/2025/10/29/us/us-caribbean-pacific-boat-strikes.html)
   - 64 Strikes 208 Killed - Updated 2026-06-16
