@@ -137,7 +137,7 @@
 
 - [Creative Computing Club House Brooklyn](https://github.com/CCCHBK/_)
   
-- Science | Imaaagination | Curiosity | [ art - activism - alliance ]
+- Science \| Imaaagination \| Curiosity \| [ art - activism - alliance ]
 
 - [A World Drawn Together](https://www.caricature.org/)
 
@@ -149,7 +149,7 @@
 
 - [Mind Storms](https://www.media.mit.edu/publications/mindstorms/) [[-pdf-]](https://worrydream.com/refs/Papert_1980_-_Mindstorms,_1st_ed.pdf)
 
-- [Computing for a Purpose](https://www.media.mit.edu/projects/purpose-based-creative-computing-with-scratch/overview/) | [[-more...-]](./aaa/purpose/purpose.md)
+- [Computing for a Purpose](https://www.media.mit.edu/projects/purpose-based-creative-computing-with-scratch/overview/) \| [[-more...-]](./aaa/purpose/purpose.md)
 
 - [daily BlackFacts](https://molab-itp.github.io/p5moLibrary/src/demo/BlackFacts/)
 
