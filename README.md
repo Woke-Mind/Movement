@@ -70,6 +70,8 @@
 
 ## news
 
+- [documentedny.com immigration](https://documentedny.com/category/english/immigration)
+
 - [US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows
 ](https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/)
 
@@ -79,8 +81,6 @@
 - [Dark Money Hit a Record High of $1.9 Billion in 2024 Federal Races](https://www.brennancenter.org/our-work/research-reports/dark-money-hit-record-high-19-billion-2024-federal-races)
 
 - [Elon Musk tops list of 2024 political donors, but five others gave more than $100 million](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million)
-
-- [documentedny.com immigration](https://documentedny.com/category/english/immigration)
 
 - [Politics Chat](https://www.youtube.com/watch?v=9PstJa1nf4Y) Heather Cox Richardson, February 26, 2026
 
@@ -104,6 +104,8 @@
 - [more...](./aaa/projects/2025-09.md)
 
 ## alliance
+
+- [documentedny.com immigration](https://documentedny.com/category/english/immigration)
 
 - [Blacksky Algorithms](https://github.com/blacksky-algorithms) builds open-source, community-driven infrastructure for decentralized social media
 
