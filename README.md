@@ -77,8 +77,11 @@
 
 ## news
 
-- [documentedny.com immigration](https://documentedny.com/category/english/immigration)
+- [News That Speaks Your Language](https://documentedny.com/) Documented is an independent, non-profit newsroom dedicated to reporting with and for immigrant communities in New York City.
+  - [english/immigration](https://documentedny.com/category/english/immigration)
 
+- [Supreme Court Bars Lawsuit After Prison Guards Shaved Inmate’s Dreadlocks](https://www.nytimes.com/2026/06/23/us/politics/supreme-court-inmates-dreadlocks.html) Damon Landor, a Rastafarian, tried to sue Louisiana prison officials for violating his religious rights.
+  
 - [US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows
 ](https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/)
 
