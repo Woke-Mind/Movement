@@ -30,12 +30,11 @@
   - 66 Strikes 215 Killed - Updated 2026-06-24
   - 64 Strikes 208 Killed - Updated 2026-06-16
 
-- Third Country Deportation
-  - [Third Country Deportation Watch](https://www.thirdcountrydeportationwatch.org/)
+- [Third Country Deportation Watch](https://www.thirdcountrydeportationwatch.org/)
+  - Updated 2026-06-23 
     - 34 agreements signed
     - +19,000 people sent to 24 countries
     - +$44 million in direct U.S. government funding
-    - 2026-06-23 Accessed
 
 - [Lives Lost to ICE](https://icefalltracker.com/)
   - 2026 : 17 in custody \| 2 outside custody - Updated 2026-06-14
