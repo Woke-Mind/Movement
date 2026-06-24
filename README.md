@@ -26,6 +26,14 @@
 
 ## stream
 
+- [Tracking U.S. Military Killings in Boat Attacks](https://www.nytimes.com/interactive/2025/10/29/us/us-caribbean-pacific-boat-strikes.html)
+  - 66 Strikes 215 Killed - Updated 2026-06-24
+  - 64 Strikes 208 Killed - Updated 2026-06-16
+
+- [Lives Lost to ICE](https://icefalltracker.com/)
+  - 2026 : 17 in custody \| 2 outside custody - Updated 2026-06-14
+  - 2025: 29 in custody \| 9 outside custody
+
 - [impact of closing USAID](https://www.google.com/search?q=impact+closing+usaid&rlz=1C5CHFA_enUS975US976&oq=impact+closing+usaid&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyBwgDEAAY7wUyBwgEEAAY7wUyCggFEAAYgAQYogQyBwgGEAAY7wUyCggHEAAYgAQYogTSAQg1ODAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
   - [One Year Later: The Effect of US ‘Chainsaw’ on Global Health](https://healthpolicy-watch.news/the-human-cost-one-year-after-the-us-took-a-chainsaw-to-global-health/)
     - health policy watch: 757,314 deaths - Written: 2026-01-20, Accessed: 2026-06-17
@@ -33,13 +41,6 @@
   - [USAID shutdown has led to hundreds of thousands of deaths](https://hsph.harvard.edu/news/usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths/)
     - Harvard School of Public Health - 2025-11-20
   
-- [Tracking U.S. Military Killings in Boat Attacks](https://www.nytimes.com/interactive/2025/10/29/us/us-caribbean-pacific-boat-strikes.html)
-  - 64 Strikes 208 Killed - Updated 2026-06-16
-
-- [Lives Lost to ICE](https://icefalltracker.com/)
-  - 2026 : 17 in custody \| 2 outside custody - Updated 2026-06-14
-  - 2025: 29 in custody \| 9 outside custody
-
 - [W. E. B. Du Bois, ‘Black America’, 1932](https://credo.library.umass.edu/cgi-bin/pdf.cgi?id=scua:mums312-b229-i058)
   
 - [ruhabenjamin viral-justice](https://www.ruhabenjamin.com/viral-justice)
