@@ -82,15 +82,15 @@
 
 - [VICTORY: Federal appeals court decisively rejects Florida’s ‘Stop WOKE Act’](https://www.fire.org/news/victory-federal-appeals-court-decisively-rejects-floridas-stop-woke-act)
     - by [FIRE](https://www.fire.org/about-us/our-team/fire) 2027-07-07
-      
+
 - [New York’s Healthcare System Relies on Haitian Medical Workers. With TPS Gone, the Whole Industry Is Under Threat](https://documentedny.com/2026/06/30/haitian-tps-new-york-healthcare-crisis-tps)
   - documentedny.com/2026/06/30 - Anna Oakes AND Trisha Mukherjee
-  
+
 - [News That Speaks Your Language](https://documentedny.com/) Documented is an independent, non-profit newsroom dedicated to reporting with and for immigrant communities in New York City.
   - [english/immigration](https://documentedny.com/category/english/immigration)
 
 - [Supreme Court Bars Lawsuit After Prison Guards Shaved Inmate’s Dreadlocks](https://www.nytimes.com/2026/06/23/us/politics/supreme-court-inmates-dreadlocks.html) Damon Landor, a Rastafarian, tried to sue Louisiana prison officials for violating his religious rights.
-  
+
 - [US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows
 ](https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/)
 
