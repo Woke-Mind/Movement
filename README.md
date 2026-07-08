@@ -80,6 +80,9 @@
 
 ## news
 
+- [New York’s Healthcare System Relies on Haitian Medical Workers. With TPS Gone, the Whole Industry Is Under Threat](https://documentedny.com/2026/06/30/haitian-tps-new-york-healthcare-crisis-tps)
+  - documentedny.com/2026/06/30 - Anna Oakes AND Trisha Mukherjee
+  
 - [News That Speaks Your Language](https://documentedny.com/) Documented is an independent, non-profit newsroom dedicated to reporting with and for immigrant communities in New York City.
   - [english/immigration](https://documentedny.com/category/english/immigration)
 
