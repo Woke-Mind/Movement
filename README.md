@@ -80,6 +80,9 @@
 
 ## news
 
+- [VICTORY: Federal appeals court decisively rejects Florida’s ‘Stop WOKE Act’](https://www.fire.org/news/victory-federal-appeals-court-decisively-rejects-floridas-stop-woke-act)
+    - by [FIRE](https://www.fire.org/about-us/our-team/fire) 2027-07-07
+      
 - [New York’s Healthcare System Relies on Haitian Medical Workers. With TPS Gone, the Whole Industry Is Under Threat](https://documentedny.com/2026/06/30/haitian-tps-new-york-healthcare-crisis-tps)
   - documentedny.com/2026/06/30 - Anna Oakes AND Trisha Mukherjee
   
