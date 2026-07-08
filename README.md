@@ -28,10 +28,10 @@
 
 - [deep thought](https://ep-visual-design.github.io/Pete-AI-Thoughts/) The Ownership Gap: Digital Capital...
   
-- [Tracking U.S. Military Killings in Boat Attacks](https://www.nytimes.com/interactive/2025/10/29/us/us-caribbean-pacific-boat-strikes.html)
-  - 66 Strikes 221 Killed - updated 2026-07-06
-  - 66 Strikes 215 Killed - Updated 2026-06-24
-  - 64 Strikes 208 Killed - Updated 2026-06-16
+- [Tracking U.S. Military Killings in Boat Attacks](https://www.nytimes.com/interactive/2025/10/29/us/us-caribbean-pacific-boat-strikes.html) Updated July 1, 2026
+  - 66 Strikes 221 Killed - accessed 2026-07-06
+  - 66 Strikes 215 Killed - accessed 2026-06-24
+  - 64 Strikes 208 Killed - accessed 2026-06-16
 
 - [Third Country Deportation Watch](https://www.thirdcountrydeportationwatch.org/)
   - Updated 2026-06-23 
