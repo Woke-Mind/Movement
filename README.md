@@ -43,7 +43,8 @@
     - +$44 million in direct U.S. government funding
 
 - [Lives Lost to ICE](https://icefalltracker.com/)
-  - 2026 : 17 in custody \| 2 outside custody - Updated 2026-06-14
+  - 2026: 17 in custory \| 4 outside custody - udpate 2026-07-18
+  - 2026: 17 in custody \| 2 outside custody - updated 2026-06-14
   - 2025: 29 in custody \| 9 outside custody
 
 - [impact of closing USAID](https://www.google.com/search?q=impact+closing+usaid&rlz=1C5CHFA_enUS975US976&oq=impact+closing+usaid&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyBwgDEAAY7wUyBwgEEAAY7wUyCggFEAAYgAQYogQyBwgGEAAY7wUyCggHEAAYgAQYogTSAQg1ODAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
