@@ -26,7 +26,8 @@
 
 ## stream
 
-- [crisis 2026](https://jht9629-nyu.github.io/crisis/) W. E. B. Du Bois started the Crisis periodical in 1910. This my 2026 response
+- [crisis 2026](https://jht9629-nyu.github.io/crisis/) W. E. B. Du Bois started the
+[Crisis periodical in 1910](https://en.wikipedia.org/wiki/The_Crisis). This is a 2026 re-mix
   
 - [deep thought](https://ep-visual-design.github.io/Pete-AI-Thoughts/) The Ownership Gap: Digital Capital...
   
