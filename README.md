@@ -26,6 +26,8 @@
 
 ## stream
 
+- [crisis 2026](https://jht9629-nyu.github.io/crisis/) W. E. B. Du Bois started the Crisis periodical in 1910. This my 2026 response
+  
 - [deep thought](https://ep-visual-design.github.io/Pete-AI-Thoughts/) The Ownership Gap: Digital Capital...
   
 - [Tracking U.S. Military Killings in Boat Attacks](https://www.nytimes.com/interactive/2025/10/29/us/us-caribbean-pacific-boat-strikes.html) Updated July 1, 2026
