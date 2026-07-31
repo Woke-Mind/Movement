@@ -6,7 +6,7 @@
 # we seek to woke our minds
 
 - an adventure in social justice
-- a resistance response to the 2021 anti-woke pandemic
+- a resistance response to the [2021 anti-woke pandemic](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack)
 
 ## goals
 
