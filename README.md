@@ -26,6 +26,9 @@
 
 ## stream
 
+- [Trump administration has cut or frozen $177 billion in grants across every state, analysis shows](https://apnews.com/article/trump-administration-federal-grants-cuts-edbdf9f49b1235bf38834417ef8dc130) apnews Updated 2026-09-16
+  - [lostfunds.org](https://www.lostfunds.org/)
+    
 - [crisis 2026](https://jht9629-nyu.github.io/crisis/) W. E. B. Du Bois started the
 [Crisis periodical in 1910](https://en.wikipedia.org/wiki/The_Crisis). This is a 2026 re-mix
   
