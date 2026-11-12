@@ -98,6 +98,8 @@
 
 ## news
 
+- [Elon Musk’s $445M spending spree tops 2026 midterm donor rankings](https://www.opensecrets.org/news/2026/11/elon-musks-445m-spending-spree-tops-2026-midterm-donor-rankings)
+  
 - [VICTORY: Federal appeals court decisively rejects Florida’s ‘Stop WOKE Act’](https://www.fire.org/news/victory-federal-appeals-court-decisively-rejects-floridas-stop-woke-act)
     - by [FIRE](https://www.fire.org/about-us/our-team/fire) 2027-07-07
 
