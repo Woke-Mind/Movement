@@ -43,6 +43,10 @@
   - 64 Strikes 208 Killed - accessed 2026-06-16
 
 - [Third Country Deportation Watch](https://www.thirdcountrydeportationwatch.org/)
+  - Updated 2026-11-20
+    - 35 agreements signed
+    - +28,800 people sent to 31 countries
+    - +$95 million in direct U.S. government funding
   - Updated 2026-11-02
     - 35 agreements signed
     - +25,000 people sent to 24 countries
