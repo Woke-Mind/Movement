@@ -26,6 +26,9 @@
 
 ## stream
 
+- [nationalpopularvote.com](https://www.nationalpopularvote.com/midterm-election-results-5-states-provide-way-national-popular-vote-reach-270-during-2027)
+  - Midterm Election Results in 5 States Provide Way for National Popular Vote to Reach 270 During 2027
+
 - [Trump administration has cut or frozen $177 billion in grants across every state, analysis shows](https://apnews.com/article/trump-administration-federal-grants-cuts-edbdf9f49b1235bf38834417ef8dc130) apnews Updated 2026-09-16
   - [lostfunds.org](https://www.lostfunds.org/)
     
