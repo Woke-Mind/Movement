@@ -9,19 +9,12 @@
 - a resistance response to the [2021 anti-woke pandemic](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack)
 
 ## goals
-
 - seeking colaborators of all ilk
-
 - to build a decentralized woke mind network
-
 - outside the gaze of evil for-profit social media companies
-
 - public & private discussions/links/info
-
 - resilient to web/infrastructure failure/attack
-
 - leverage git and other open source build tools
-
 - privacy protected by industrial strength encryption
 
 ## stream
@@ -29,8 +22,9 @@
 - [nationalpopularvote.com](https://www.nationalpopularvote.com/midterm-election-results-5-states-provide-way-national-popular-vote-reach-270-during-2027)
   - Midterm Election Results in 5 States Provide Way for National Popular Vote to Reach 270 During 2027
 
-- [Trump administration has cut or frozen $177 billion in grants across every state, analysis shows](https://apnews.com/article/trump-administration-federal-grants-cuts-edbdf9f49b1235bf38834417ef8dc130) apnews Updated 2026-09-16
-  - [lostfunds.org](https://www.lostfunds.org/)
+- [lostfunds.org](https://www.lostfunds.org/)
+  - [apnews Updated 2026-09-16](https://apnews.com/article/trump-administration-federal-grants-cuts-edbdf9f49b1235bf38834417ef8dc130)
+  - Trump administration has cut or frozen $177 billion in grants across every state, analysis shows
     
 - [crisis 2026](https://jht9629-nyu.github.io/crisis/) W. E. B. Du Bois started the
 [Crisis periodical in 1910](https://en.wikipedia.org/wiki/The_Crisis). This is a 2026 re-mix
