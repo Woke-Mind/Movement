@@ -99,6 +99,11 @@
 
 ## news
 
+- [The New Mexico Department of Justice Secures Another Landmark Victory Against Big Tech, with Historic $25 Billion Penalty Against Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/) October 21, 2026
+  - [Meta to pay up to $18bn to settle claims its platforms harm children](https://www.bbc.com/news/articles/cd68q3wynnqo) 26 August 2026
+  - [FTC Imposes $5 Billion Penalty and Sweeping New Privacy Restrictions on Facebook](https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook) July 24, 2019
+
+    
 - [Elon Musk’s $445M spending spree tops 2026 midterm donor rankings](https://www.opensecrets.org/news/2026/11/elon-musks-445m-spending-spree-tops-2026-midterm-donor-rankings)
   
 - [VICTORY: Federal appeals court decisively rejects Florida’s ‘Stop WOKE Act’](https://www.fire.org/news/victory-federal-appeals-court-decisively-rejects-floridas-stop-woke-act)
